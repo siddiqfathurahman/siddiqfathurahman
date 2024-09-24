@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftrmnn&label=Profile%20views&color=0e75b6&style=flat" alt="siddiqfathurahman" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ftrmnn" alt="siddiqfathurahman" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddiqfathurahman" alt="siddiqfathurahman" /></a> </p>
 
 - 🔭 I’m currently working on **various websites to improve my skills**
 
