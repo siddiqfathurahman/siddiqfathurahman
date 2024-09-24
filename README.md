@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Fathurahman</h1>
+<h1 align="center">HII ALL, I'm Fathurahman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia, focused on creating responsive, user-friendly websites with modern tools and technologies. Dedicated to delivering seamless digital experiences through clean code, performance optimization, and a strong eye for design. Always eager to learn and innovate, I aim to build dynamic, scalable web applications.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ftrmnn&label=Profile%20views&color=0e75b6&style=flat" alt="siddiqfathurahman" /> </p>
