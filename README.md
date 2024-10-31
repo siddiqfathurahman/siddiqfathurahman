@@ -1,9 +1,6 @@
 <h1 align="center">HII ALL, I'm Fathurahman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia, focused on creating responsive, user-friendly websites with modern tools and technologies. Dedicated to delivering seamless digital experiences through clean code, performance optimization, and a strong eye for design. Always eager to learn and innovate, I aim to build dynamic, scalable web applications.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ftrmnn&label=Profile%20views&color=0e75b6&style=flat" alt="siddiqfathurahman" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siddiqfathurahman" alt="siddiqfathurahman" /></a> </p>
 
 - 🔭 I’m currently working on **various websites to improve my skills**
 
