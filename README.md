@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddiqfathurahman&show_icons=true&locale=en" alt="siddiqfathurahman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqfathurahman&" alt="siddiqfathurahman" /></p>
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=siddiqfathurahman&radius=16&theme=react&area=true&order=5" height="auto" alt="activity-graph graph"  />
+
