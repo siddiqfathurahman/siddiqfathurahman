@@ -1,17 +1,6 @@
 <h1 align="center">HII ALL, I'm Fathurahman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia, focused on creating responsive, user-friendly websites with modern tools and technologies. Dedicated to delivering seamless digital experiences through clean code, performance optimization, and a strong eye for design. Always eager to learn and innovate, I aim to build dynamic, scalable web applications.</h3>
 
-
-- 🔭 I’m currently working on **various websites to improve my skills**
-
-- 💬 Ask me about **......**
-
-- 🤝 I’m looking for help with **improving my frontend development skills**
-
-- 🌱 I’m currently learning **react js and tailwind css**
-
-- ⚡ Fun fact [I love experimenting with new frontend technologies and frameworks to create sleek, user-friendly web experiences!](I love experimenting with new frontend technologies and frameworks to create sleek, user-friendly web experiences!)
-
 - 📫 How to reach me **fr9299540@gmail.com**
 
 - 👨‍💻 All of my projects are available at **on github siddiqfathurahman**
