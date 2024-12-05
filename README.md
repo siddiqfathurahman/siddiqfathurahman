@@ -1,4 +1,4 @@
-<h1 align="center">HII ALL, I'm Fathurahman</h1>
+<h1 align="center">Siddiq Fathurahman</h1>
 <h3 align="center">A passionate frontend developer from Indonesia, focused on creating responsive, user-friendly websites with modern tools and technologies. Dedicated to delivering seamless digital experiences through clean code, performance optimization, and a strong eye for design. Always eager to learn and innovate, I aim to build dynamic, scalable web applications.</h3>
 
 - 📫 How to reach me **fr9299540@gmail.com**
@@ -16,7 +16,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=siddiqfathurahman&show_icons=true&locale=en&layout=compact" alt="siddiqfathurahman" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=siddiqfathurahman&show_icons=true&locale=en" alt="siddiqfathurahman" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=siddiqfathurahman&" alt="siddiqfathurahman" /></p>
 
