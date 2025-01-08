@@ -1,5 +1,5 @@
-<h1 align="center">Siddiq Fathurahman</h1>
-<h3 align="center">A passionate frontend developer from Indonesia, focused on creating responsive, user-friendly websites with modern tools and technologies. Dedicated to delivering seamless digital experiences through clean code, performance optimization, and a strong eye for design. Always eager to learn and innovate, I aim to build dynamic, scalable web applications.</h3>
+<h1 align="left">Siddiq Fathurahman</h1>
+<h3 align="left">A passionate frontend developer from Indonesia, focused on creating responsive, user-friendly websites with modern tools and technologies. Dedicated to delivering seamless digital experiences through clean code, performance optimization, and a strong eye for design. Always eager to learn and innovate, I aim to build dynamic, scalable web applications.</h3>
 
 - 📫 How to reach me **siddiqfathurahman@gmail.com**
 
